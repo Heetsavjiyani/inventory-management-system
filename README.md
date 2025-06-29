@@ -16,9 +16,11 @@ CSV (built-in)
 Getting Started
 Create and activate a virtual environment
 python -m venv .venv
-# Windows
+
+#windows
 .\.venv\Scripts\activate
-# macOS/Linux
+
+#macos/linux
 source .venv/bin/activate
 
 Install dependencies
